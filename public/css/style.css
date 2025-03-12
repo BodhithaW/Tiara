@@ -285,7 +285,7 @@ header .intro-text {
 @media (max-width: 768px) {
   .intro {
     display: table;
-    width: 111%;
+    width: 125%;
     padding: 0;
     background: url(../img/intro-bg.jpg) center center no-repeat;
     background-color: #e5e5e5;
