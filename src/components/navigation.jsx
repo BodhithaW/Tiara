@@ -104,7 +104,7 @@ export const Navigation = () => {
             </a>
           </li>
           <li>
-            <a href="#portfolio" onClick={() => setMenuOpen(false)}>
+            <a href="#gallery" onClick={() => setMenuOpen(false)}>
               Gallery
             </a>
           </li>
