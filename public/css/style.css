@@ -135,17 +135,24 @@ hr {
 
 .menu li a {
   text-decoration: none;
-  color: rgb(27, 167, 83);
+  color: rgb(0, 0, 0);
   font-size: 18px;
   transition: 0.3s ease;
   padding: 10px 15px;
 }
 
 .menu li a:hover {
-  color: #ffcc00;
+  color: #ffffff;
   background-color: #7a9acc;
   border-radius: 20px;
-  border: 2px solid #73AD21;
+  border: 2px solid #040404;
+}
+
+.menu li a.active {
+  color: #ffffff;
+  background-color: #7a9acc;
+  border-radius: 20px;
+  border: 2px solid #000000;
 }
 
 /* Mobile Menu Styles */
@@ -205,6 +212,14 @@ hr {
 
   .menu li a:hover {
     color: #ffcc00;
+  }
+
+  .menu li a.active {
+    color: #ffffff;
+    background-color: #7a9acc;
+    border-radius: 10px;
+    width: 200px;
+    border: 5px solid #000000;
   }
 
   .brand-name{
