@@ -285,7 +285,7 @@ header .intro-text {
 @media (max-width: 768px) {
   .intro {
     display: table;
-    width: 125%;
+    width: 126%;
     padding: 0;
     background: url(../img/intro-bg.jpg) center center no-repeat;
     background-color: #e5e5e5;
@@ -487,7 +487,7 @@ header .intro-text {
     position: absolute;
     top: 0;
     left: 0;
-    width: 111%;
+    width: 113%;
     height: 100%;
     background: rgba(0, 0, 0, 0.7) !important;
     z-index: -1;
@@ -547,7 +547,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 50px 0 50px;
-  background: linear-gradient(to right, #91cdda 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #91cdda 0%, #0a0a0b 100%);
   color: rgba(255, 255, 255, 0.75);
   margin-top: 50px;
 }
@@ -675,9 +675,10 @@ label {
 @media (max-width: 768px) {
   #contact {
     padding: -10px 0 50px;
-    background: linear-gradient(to right, #91cdda 0%, #5ca9fb 100%);
-    color: rgba(255, 255, 255, 0.75);
+    /* background: linear-gradient(to right, #91cdda 0%, #5ca9fb 100%); */
+    /* color: rgba(255, 255, 255, 0.75); */
     margin-top: 50px;
+    width: 126% !important;
     
   }
   
