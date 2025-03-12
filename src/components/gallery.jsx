@@ -6,6 +6,7 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
+          <br /> <br /> <br />
           <h2>Gallery</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
@@ -29,6 +30,8 @@ export const Gallery = (props) => {
                 ))
               : "Loading..."}
           </div>
+          <br />
+          <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
         </div>
       </div>
     </div>

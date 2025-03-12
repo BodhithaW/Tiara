@@ -333,15 +333,14 @@ export const Contact = (props) => {
           background: "#222",
           color: "white",
           textAlign: "center",
-          padding: "10px 0",
+          padding: "30px 0",
           width: "100%",
           marginBottom: "-100px",
         }}
       >
         <div className="container text-center">
           <p>
-            &copy; &copy; &copy; &copy; 2023 Issaaf Kattan React Land Page
-            Template. Design by Bodhi
+            &copy; &copy; &copy; &copy; 2025 Tiara Cleaning. Design by Bodhi
           </p>
         </div>
       </div>

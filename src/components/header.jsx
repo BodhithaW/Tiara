@@ -27,3 +27,21 @@ export const Header = (props) => {
     </header>
   );
 };
+
+// import React from "react";
+
+// export const Header = (props) => {
+//   return (
+//     <header id="header" className="hero-section">
+//       <div className="overlay">
+//         <div className="container text-center">
+//           <h1>{props.data ? props.data.title : "Loading"}</h1>
+//           <p>{props.data ? props.data.paragraph : "Loading"}</p>
+//           <a href="#features" className="btn btn-primary btn-lg">
+//             Call Today for Estimate
+//           </a>
+//         </div>
+//       </div>
+//     </header>
+//   );
+// };

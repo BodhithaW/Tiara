@@ -3,6 +3,7 @@
     "title": "Tiara cleaning service",
     "paragraph": "The environmentally kind cleaning company ."
   },
+  
   "About": {
     "paragraph": "At Tiara Cleaning Service, we understand that your home is your sanctuary. We are dedicated to providing top-quality cleaning services that not only meet but exceed your expectations. Our team is comprised of reliable and meticulous professionals who are passionate about creating clean and comfortable living spaces. We believe in building lasting relationships with our clients by offering personalized services tailored to their unique needs. With a commitment to excellence and attention to detail, Tiara Cleaning Service aims to bring a touch of sparkle to every home we touch.",
     "Why": [
@@ -48,88 +49,51 @@
       "title": "Project Title",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
     }
+    
   ],
   "Services": [
     {
-      "icon": "fa fa-building",
+      
       "name": "Domestic cleaning",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Commercial Cleaning",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+      "img": "img/service-1.jpg"
     },
     {
-      "icon": "fa fa-soap",
-      "name": "carpet cleaning",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      
+      "name": "Commercial cleaning",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+      "img": "img/service-2.jpg"
     },
     {
-      "icon": "fa fa-mop",
+      
       "name": "Hard-floor cleaning",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+      "img": "img/service-3.jpg"
     },
     {
-      "icon": "fa fa-plane",
-      "name": "polishing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      
+      "name": "Carpet cleaning",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+      "img": "img/service-4.jpg"
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "buffing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      
+      "name": "Polishing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+      "img": "img/service-5.jpg"
+    },
+
+    {
+      
+      "name": "Buffing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+      "img": "img/service-1.jpg"
     }
+    
+    
   ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
+
   
   "Contact": {
     "address": "4321 California St, San Francisco, CA 12345 ",
@@ -140,26 +104,28 @@
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
+
+
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Domestic cleaning",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-home",
+      "title": "Domestic cleaning"
+     
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Commercial Cleaning",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-building",
+      "title": "Commercial Cleaning"
+      
     },
     {
-      "icon": "fa fa-group",
-      "title": "carpet cleaning",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-rug",
+      "title": "carpet cleaning"
+      
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Hard-floor cleaning",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-broom",
+      "title": "Hard-floor cleaning"
+      
     }
   ]
 }
