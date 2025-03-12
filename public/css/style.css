@@ -678,7 +678,7 @@ label {
     background: linear-gradient(to right, #91cdda 0%, #5ca9fb 100%);
     color: rgba(255, 255, 255, 0.75);
     margin-top: 50px;
-    width: 125%;
+    width: 155% !important;
   }
   
 }
