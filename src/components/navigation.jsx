@@ -62,7 +62,7 @@ export const Navigation = () => {
 
   useEffect(() => {
     const handleScroll = () => {
-      const sections = ["features", "about", "services", "gallery", "contact"];
+      const sections = ["features", "about", "services","contact"];
       let currentSection = "";
 
       sections.forEach((section) => {
