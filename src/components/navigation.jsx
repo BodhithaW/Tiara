@@ -130,7 +130,7 @@ export const Navigation = () => {
               Services
             </a>
           </li>
-          <li>
+          {/* <li>
             <a
               href="#gallery"
               className={activeSection === "gallery" ? "active" : ""}
@@ -138,7 +138,7 @@ export const Navigation = () => {
             >
               Gallery
             </a>
-          </li>
+          </li> */}
           <li>
             <a
               href="#contact"
