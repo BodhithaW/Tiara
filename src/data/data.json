@@ -96,7 +96,11 @@
 
   
   "Contact": {
-    "address": "22, Alanbrook Road Colchester, Essex C02 8EG ",
+    "address": {
+  "line1": "22, Alanbrook Road",
+  "line2": "Colchester, Essex",
+  "line3": "C02 8EG"
+},
     "phone": "01206 621842",
             
     "email": "tiaraclean1@gmail.com",
