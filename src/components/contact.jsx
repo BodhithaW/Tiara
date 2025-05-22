@@ -294,6 +294,32 @@ export const Contact = (props) => {
               {props.data ? props.data.phone : "loading"}
             </p>
           </div>
+
+<div className="contact-item">
+  <p>
+    <span>
+      <i className="fab fa-whatsapp" style={{ marginRight: '8px' }}></i> WhatsApp
+    </span>{" "}
+    {props.data ? (
+      
+      <parseFloat
+        href={`https://wa.me/ ${props.data.whatsapp}`}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+         07532756758
+        {props.data.whatsapp}
+      </parseFloat>
+      
+    ) : (
+      "loading"
+    )}
+  </p>
+</div>
+
+
+
+
           <div className="contact-item">
             <p>
               <span className="flex items-center gap-2">
